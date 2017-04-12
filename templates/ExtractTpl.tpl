@@ -1,0 +1,1 @@
+{$arrForExtract[0][0]}
